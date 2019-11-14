@@ -1,0 +1,11 @@
+{
+  "name": "asset-tracker-2fa",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.1.0",
+    "messagebird": "^2.1.4"
+  }
+}
